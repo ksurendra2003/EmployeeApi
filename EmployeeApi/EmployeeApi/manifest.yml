@@ -1,0 +1,8 @@
+applications:
+- name: SampleApi2004
+  instances: 2
+  memory: 1GB
+  disk: 1GB
+  stack: cflinuxfs3
+  health-check-type: process
+  buildpack: dicf_dotnet_core_buildpack_234_cflinuxfs3

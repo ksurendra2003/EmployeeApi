@@ -1,3 +1,4 @@
+C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\PubTmp\Out\manifest.yml
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\PubTmp\Out\EmployeeApi.exe
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.Development.json
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\PubTmp\Out\appsettings.json

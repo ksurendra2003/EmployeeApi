@@ -17,7 +17,7 @@ namespace EmployeeApi.Repository
     }
     public class EmployeeRepository : IEmployeeRepository
     {
-        string _dbConnection = "Server=tcp:manjuserver.database.windows.net,1433;Initial Catalog=manjudbserver;Persist Security Info=False;User ID=dbadmin;Password=Surendra12$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
+        string _dbConnection = "Server=tcp:surenserver.database.windows.net,1433;Initial Catalog=SurenDb;Persist Security Info=False;User ID=dbadmin;Password=Surendra12$;MultipleActiveResultSets=False;Encrypt=True;TrustServerCertificate=False;Connection Timeout=30;";
 
         public void AddEmployee(Employee employee)
         {

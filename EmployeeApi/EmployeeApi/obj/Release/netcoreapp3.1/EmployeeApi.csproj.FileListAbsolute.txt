@@ -30,3 +30,4 @@ C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\Employe
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\EmployeeApi.dll
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\EmployeeApi.pdb
 C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\obj\Release\netcoreapp3.1\EmployeeApi.genruntimeconfig.cache
+C:\GitRepo\EmployeeApi\EmployeeApi\EmployeeApi\bin\Release\netcoreapp3.1\manifest.yml

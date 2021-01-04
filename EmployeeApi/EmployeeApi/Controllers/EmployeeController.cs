@@ -9,7 +9,6 @@ using System.Threading.Tasks;
 namespace EmployeeApi.Controllers
 {
     [ApiController]
-    [Route("Employee")]
     public class EmployeeController
     {
         private readonly IEmployeeRepository _employeeRepository;
@@ -34,6 +33,12 @@ namespace EmployeeApi.Controllers
         {
             _employeeRepository.AddEmployee(employee);
             return true;
+        }
+
+        [Route("hc")]
+        public string HC()
+        {
+            return "Sucess";
         }
     }
 }
